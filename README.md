@@ -120,21 +120,6 @@ CLIENT_URL=http://localhost:5173
 
 ---
 
-## Limitations
-- No automated tests
-- Basic UI (not fully optimized)
-- No file upload support
-
----
-
-## Future Improvements
-- Add testing (unit + integration)
-- Improve UI/UX
-- Add notifications
-- Add file attachments
-
----
-
 ## Author
 Rishi Jat  
 https://github.com/rishi-jat
